@@ -1,0 +1,2 @@
+/home/shivraj/Downloads/postman-linux-x64.tar.gz filter=lfs diff=lfs merge=lfs -text
+*.tar.gz filter=lfs diff=lfs merge=lfs -text
